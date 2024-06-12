@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Amari McGee
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Amari
+last_name: McGee
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔍
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,83 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Social Data Science Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Arizona State University
+    url: https://www.amarimcgee.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:amari@amarimcgee.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/amarispeaks
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mariiiwrld
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/marimcgee
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-4064-0821
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Research Methodology
+  - Data Science
+  - Computational Social Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MArts in Social Justice & Human Rights (Currently Enrolled)
+    institution: Arizona State University
+    date_start: 2024-05-16
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Research Methods
+      - Computational Social Methods I & II
+      - Action Research in Social Justice and Human Rights
+    button:
+      text: 'Read Literature Review'
+      url: 'https://example.com'
+  - area: BSci in Information Technology
+    institution: Kennesaw State University
+    date_start: 2018-08-14
+    date_end: 2020-05-10
     summary: |
       GPA: 3.4/4.0
-      
+
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Technical Writing
+      - Probability and Data Analysis
+      - Programming & Problem Solving I
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Jr. Application Developer
+    company_name: Procentrix
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-06-12
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Develop and implement personalized client solutions using TypeScript, Javascript, and C#
+      - Collaborate on stages of the software development lifecycle from requirement gathering to production releases
+      - Participate in software field testing to verify the performance of developed projects to identify issues and make necessary modifications
+  - position: IT Analyst III
+    company_name: Comcast
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-03-26
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Prepare and construct technical training materials and conduct weekly training seminars across the organization on M365 applications
+      - Design, develop, test, and implement of enterprise-scale apps using SharePoint and Power Platform (Power Apps, Power Automate & Power BI) to increase company productivity automation by 75%
+      - Collaborate with cross-functional technology partners to assess overall impacts and determine technology solutions with M365 products with a 100% eNPS rate
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -118,11 +109,11 @@ skills:
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 75
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 50
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -132,55 +123,41 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Sports
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: assets/media/icons/passport-solid.svg
+      - name: Coding
         description: ''
         percent: 80
-        icon: camera
+        icon: assets/media/icons/code-solid.svg
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Pioneer in Education
+    url: https://www.instagram.com/thetranslifeawards/?hl=en
+    date: '2023-09-04'
+    awarder: Trans Life Awards
+    icon: assets/media/icons/award-solid.svg
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Amari McGee is a dedicated scholar and activist currently pursuing a graduate degree in Social Justice and Human Rights at Arizona State University. With a strong foundation in Information Technology and Computer Science, Amari brings a unique interdisciplinary perspective to his work. His primary research interests lie in the areas of LGBTQ rights, racial inequality, and child neglect.
+
+Beyond his academic pursuits, Amari is a noted professional speaker, educator, and consultant within the LGBTQ+ community. In 2018, they founded "To Better Understand, Inc.", an organization dedicated to supporting and educating those with limited understanding of the LGBTQ+ community. He has provided guidance to over 200+ transgender youth individuals on their gender identity journeys.
+
+Amari's impactful work has earned him numerous accolades, including the prestigious Trans Life Award in Pioneer in Education. His contributions have been recognized by various media platforms, including The Washington Post, The Trevor Project, and USA Today.
+
+In addition to his academic and activist work, Amari runs a successful consultancy business focused on promoting allyship, workplace inclusivity, LGBTQ+ history, and community acceptance. He also host "The Trans* Lesson Plan", a podcast that offers insightful discussions and enlightening stories about transgender history and experiences.
+
+In the near future, Amari aspires to further his academic journey by pursuing a PhD in Women's, Gender, and Sexuality studies.
