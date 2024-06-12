@@ -1,7 +1,7 @@
 ---
 title: Transgender History 101
 
-event: To Better Understand, Inc. & Amari McGee, LLC
+event: Amari McGee, LLC
 event_url: ''
 
 location: Online
@@ -53,8 +53,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
-  - example
+#projects: example
 ---
 
 {{% callout note %}}
