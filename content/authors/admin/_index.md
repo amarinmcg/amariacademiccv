@@ -36,9 +36,9 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/amarispeaks
   - icon: brands/github
-    url: https://github.com/mariiiwrld
+    url: https://github.com/amarinmcg
   - icon: brands/linkedin
-    url: https://www.linkedin.com/marimcgee
+    url: https://www.linkedin.com/in/marimcgee
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid

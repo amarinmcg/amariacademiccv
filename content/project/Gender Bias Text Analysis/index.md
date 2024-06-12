@@ -1,6 +1,6 @@
 ---
 title: Gender Bias Text Analysis
-date: Coming Soon
+date: ''
 external_link: ''
 tags:
   - Python

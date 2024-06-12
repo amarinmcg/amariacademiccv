@@ -1,6 +1,6 @@
 ---
 title: Analyze Survey Data
-date: In Progress
+date: ''
 external_link: ''
 tags:
   - Survey
