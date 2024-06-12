@@ -1,28 +1,23 @@
 ---
-title: Example Talk
+title: Transgender History 101
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: To Better Understand, Inc. & Amari McGee, LLC
+event_url: ''
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Online
+#address: street: 450 Serra Mall city: Stanford region: CA postcode: '94305' country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A comprehensive exploration of transgender history, teaching participants to conduct research, analyze sources, and understand the diverse experiences and contributions of the transgender community.
+abstract: 'This online event will be a comprehensive exploration of transgender history. Participants will be guided on how to conduct research on this topic, analyze historical sources with a critical eye, and report their findings in an engaging and respectful manner. Methods of research will include reviewing archival materials, interviewing community members, and analyzing media representations. Emphasis will be placed on understanding the diverse experiences within the transgender community throughout history, recognizing the influence of societal norms on gender identities, and acknowledging the resilience and contributions of transgender individuals in shaping our world. The event aims to foster a deeper understanding and appreciation of transgender history, promoting inclusivity and respect for all.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-10-01T13:00:00Z'
+date_end: '2024-10-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-09-25T00:00:00Z'
 
 authors:
   - admin
@@ -30,7 +25,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -41,35 +36,37 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_code: 'https://github.com'
+#url_pdf: ''
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+#slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+#projects:
   - example
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Registration will be available soon.
 {{% /callout %}}
 
-Slides can be added in a few ways:
+What to expect:
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+- **1** An in-depth exploration of transgender history
+- **2** Guidance on how to conduct research on this topic
+- **3** Techniques for analyzing historical sources with a critical eye
+- **4** Methods for reporting findings in an engaging and respectful manner
+- **5** Emphasis on understanding diverse experiences within the transgender community throughout history
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Further event details coming soon.

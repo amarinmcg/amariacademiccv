@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects
+      text: These projects highlight the power of Python and data science in contributing to social justice initiatives. They involve analyzing large data sets to uncover patterns of inequality, developing algorithms to promote fairness, and creating interactive visualizations to help communicate complex social issues.
       filters:
         folders:
           - project

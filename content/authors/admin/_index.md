@@ -126,15 +126,13 @@ skills:
       - name: Sports
         description: ''
         percent: 100
-        icon: assets/media/icons/passport-solid.svg
+        icon: "custom/passport-solid"
       - name: Coding
         description: ''
         percent: 80
-        icon: assets/media/icons/code-solid.svg
+        icon: "custom/code-solid"
 
-languages:
-  - name: English
-    percent: 100
+#/ languages: - name: English percent: 100 
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -145,9 +143,8 @@ awards:
     url: https://www.instagram.com/thetranslifeawards/?hl=en
     date: '2023-09-04'
     awarder: Trans Life Awards
-    icon: assets/media/icons/award-solid.svg
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+    icon: "custom/award-solid"
+#    summary: |I lications
 ---
 
 ## About Me
