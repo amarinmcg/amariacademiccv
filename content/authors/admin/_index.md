@@ -126,11 +126,11 @@ skills:
       - name: Sports
         description: ''
         percent: 100
-        icon: custom/passport-solid
+        icon: passport-solid
       - name: Coding
         description: ''
         percent: 80
-        icon: custom/code-solid
+        icon: code-solid
 
 #/ languages: - name: English percent: 100 
 
@@ -143,7 +143,7 @@ awards:
     url: https://www.instagram.com/thetranslifeawards/?hl=en
     date: '2023-09-04'
     awarder: Trans Life Awards
-    icon: custom/award-solid
+    icon: award-solid
 #    summary: |I lications
 ---
 
