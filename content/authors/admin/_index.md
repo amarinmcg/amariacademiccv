@@ -122,15 +122,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+#        icon: person-simple-walk
       - name: Sports
         description: ''
         percent: 100
-        icon: passport-solid
+#        icon: passport-solid
       - name: Coding
         description: ''
         percent: 80
-        icon: code-solid
+#        icon: 'code-solid'
 
 #/ languages: - name: English percent: 100 
 
