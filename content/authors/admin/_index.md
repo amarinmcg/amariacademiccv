@@ -143,7 +143,7 @@ awards:
     url: https://www.instagram.com/thetranslifeawards/?hl=en
     date: '2023-09-04'
     awarder: Trans Life Awards
-    icon: award-solid
+#    icon: award-solid
 #    summary: |I lications
 ---
 
