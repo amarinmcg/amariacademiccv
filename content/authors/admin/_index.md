@@ -115,19 +115,19 @@ skills:
         description: ''
         percent: 50
         icon: circle-stack
-  - name: Hobbies
+  - name: Research Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Research Methodology
         description: ''
         percent: 60
 #        icon: person-simple-walk
-      - name: Sports
+      - name: Survey Design
         description: ''
         percent: 100
 #        icon: passport-solid
-      - name: Coding
+      - name: Archival Preservation
         description: ''
         percent: 80
 #        icon: 'code-solid'
