@@ -2,7 +2,7 @@
 title: Transgender History 101
 
 event: Amari McGee, LLC
-event_url: ''
+event_url: event
 
 location: Online
 #address: street: 450 Serra Mall city: Stanford region: CA postcode: '94305' country: United States
